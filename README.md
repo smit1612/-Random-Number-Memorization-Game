@@ -1,4 +1,4 @@
-# Random Number Memorization Game
+# MemoryBlitz
 
 ## Overview
 This project is a dynamic web-based game developed with HTML, CSS, and JavaScript, aimed at enhancing cognitive stimulation through sequential number memorization.
@@ -14,6 +14,8 @@ This project is a dynamic web-based game developed with HTML, CSS, and JavaScrip
 - HTML
 - JavaScript
 - Cascading Style Sheets (CSS)
+- jUnit
+- NodeJs
 - Software Testing
 - GitHub
 - Teamwork
